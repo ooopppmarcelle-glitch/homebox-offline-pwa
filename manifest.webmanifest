@@ -1,0 +1,19 @@
+{
+  "name": "HOMEBOX OFFLINE",
+  "short_name": "HOMEBOX",
+  "description": "Prépare tes contenus pour les consulter hors connexion.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070d19",
+  "theme_color": "#08101e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
